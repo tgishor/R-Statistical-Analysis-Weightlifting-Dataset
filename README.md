@@ -19,14 +19,14 @@ This project presents a detailed statistical analysis of a weightlifting dataset
 
 ---
 
-## 🎯 Research Questions
+## Research Questions
 
 - **RQ1:** Is there a difference in the average age between female and male weightlifters?
 - **RQ2:** What relationship exists between body weight and maximum weight lifted, considering gender differences?
 
 ---
 
-## 📈 Methods Used
+## Methods Used
 
 - **Exploratory Data Analysis (EDA)**: Boxplots, Bar charts
 - **Hypothesis Testing**: Independent t-tests for comparing means
@@ -34,7 +34,7 @@ This project presents a detailed statistical analysis of a weightlifting dataset
 
 ---
 
-## 🗃️ Dataset
+## Dataset
 
 A simulated dataset with 274 participants covering:
 - Gender distribution
@@ -58,7 +58,7 @@ A simulated dataset with 274 participants covering:
 
 ---
 
-## 📌 Findings and Insights
+## Findings and Insights
 
 - **Age Comparison**:  
   No statistically significant age difference was found between male and female weightlifters (p-value = 0.1289).
@@ -68,7 +68,7 @@ A simulated dataset with 274 participants covering:
 
 ---
 
-## 🚀 Running the Analysis
+## Running the Analysis
 
 1. Clone the repository.
 2. Open `analysis.Rmd` in RStudio.
@@ -96,6 +96,6 @@ This project is licensed under the MIT License.
 
 ## 🤝 Connect with me
 
-* **GitHub:** [Your GitHub Link](https://github.com/your-profile)
-* **LinkedIn:** [Your LinkedIn Link](https://linkedin.com/in/your-profile)
+* **GitHub:** [Your GitHub Link](https://github.com/tgishor)
+* **LinkedIn:** [Your LinkedIn Link](https://linkedin.com/in/gishor-thavakumar)
 
