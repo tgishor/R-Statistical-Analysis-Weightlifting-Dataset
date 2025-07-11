@@ -42,23 +42,19 @@ A simulated dataset with 274 participants covering:
 - Body weight (kg)
 - Maximum weight lifted (kg)
 
-**Dataset Location:** `data/48032875_data_StatReport.csv`
+**Dataset Location:** `data/dataset.csv`
 
 ---
 
 ## 📊 Key Visualizations
 
-**Gender Distribution**  
-![](visualizations/gender_distribution.png)
+| Gender Distribution | Age Distribution by Gender |
+|---------------------|----------------------------|
+| <img src="visualizations/gender_distribution.png" width="350"/> | <img src="visualizations/age_distribution.png" width="350"/> |
 
-**Age Distribution by Gender**  
-![](visualizations/age_distribution.png)
-
-**Body Weight Distribution by Gender**  
-![](visualizations/bodyweight_distribution.png)
-
-**Weight Lifted Distribution by Gender**  
-![](visualizations/weightlifted_distribution.png)
+| Body Weight Distribution by Gender | Weight Lifted Distribution by Gender |
+|------------------------------------|--------------------------------------|
+| <img src="visualizations/bodyweight_distribution.png" width="350"/> | <img src="visualizations/weightlifted_distribution.png" width="350"/> |
 
 ---
 
@@ -88,7 +84,7 @@ library(ggplot2)
 
 * [`Statistical_Report.pdf`](Statistical_Report.pdf)
 * [`analysis.Rmd`](analysis.Rmd)
-* [`data/48032875_data_StatReport.csv`](data/48032875_data_StatReport.csv)
+* [`data/statistical_dataset.csv`](data/dataset.csv)
 
 ---
 
