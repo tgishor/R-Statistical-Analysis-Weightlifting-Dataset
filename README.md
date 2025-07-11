@@ -8,7 +8,7 @@
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-4CA4F7?style=for-the-badge&logo=r&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-008080?style=for-the-badge&logo=stata&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FFA500?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF69B4?style=for-the-badge&logo=plotly&logoColor=white)
 
 **Topics:** Statistical Analysis, Data Visualization, Hypothesis Testing  
