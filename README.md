@@ -1,4 +1,4 @@
-# Weightlifting Statistics Case Study 📊
+# Weightlifting Statistics Case Study
 
 **Author:** Gishor Thavakumar  
 **Tools:** R, ggplot2, Statistical Testing  
