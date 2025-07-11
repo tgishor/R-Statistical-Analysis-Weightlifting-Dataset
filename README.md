@@ -3,7 +3,10 @@
 **Author:** Gishor Thavakumar  
 **Tools:** R, ggplot2, Statistical Testing  
 **Topics:** Statistical Analysis, Data Visualization, Hypothesis Testing  
-
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-4CA4F7?style=for-the-badge&logo=r&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ---
 
 ## 🚩 Overview
