@@ -46,7 +46,7 @@ A simulated dataset with 274 participants covering:
 
 ---
 
-## 📊 Key Visualizations
+## Basic Visualizations
 
 | Gender Distribution | Age Distribution by Gender |
 |---------------------|----------------------------|
